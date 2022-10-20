@@ -1,0 +1,40 @@
+.innerdiv {
+    margin-left: 20px;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+input {
+    margin-left: 20px;
+}
+
+.leftinnerdiv {
+    float: left;
+    width: 25%;
+}
+
+.rightinnerdiv {
+    float: right;
+    width: 75%;
+}
+
+.innerright {
+    background-color: rgb(105, 221, 105);
+}
+
+.greenbtn {
+    background-color: rgb(16, 170, 16);
+    color: white;
+    width: 95%;
+    height: 40px;
+    margin-top: 8px;
+}
+
+.greenbtn,
+a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
